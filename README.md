@@ -8,14 +8,14 @@ Este repositorio contiene el prototipo funcional simulado del proyecto de ingeni
 - `capturas/` → Imágenes del sistema en funcionamiento (simulación).
 - `documentacion/` → Validación TRL5 y detalles del diseño (opcional).
   
-## ⚙️ Funcionalidades principales
+## Funcionalidades principales
 
 - Activación automática de aspersores cuando el nivel de humedad está por debajo del umbral definido.
 - Control manual del sistema de riego a través de la simulación de una interfaz.
 - Supervisión visual mediante cámaras IP simuladas en la red.
 - Simulación de almacenamiento de eventos de riego y monitoreo.
 
-## 🛠️ Componentes simulados
+## Componentes simulados
 
 - Sensores de humedad del suelo.
 - Microcontrolador para procesamiento lógico.
@@ -23,17 +23,17 @@ Este repositorio contiene el prototipo funcional simulado del proyecto de ingeni
 - Gateway con red LAN/Wi-Fi.
 - Cámaras IP conectadas a red local.
 
-## 🧪 Entorno de validación
+## Entorno de validación
 
 El sistema fue validado en un entorno simulado relevante, alcanzando un nivel de madurez tecnológica TRL5. Todos los componentes interactúan de forma funcional como un sistema completo dentro de Cisco Packet Tracer 8.2.
 
-## 🚀 Tecnología utilizada
+## Tecnología utilizada
 
 - Cisco Packet Tracer 8.2
 - IoT simulada (sensores, actuadores, red local)
 
-## 👨‍💻 Desarrollado por
+## Desarrollado por
 
-**Javier Eduardo Arceo Escobar**  
+**Javier Eduardo Arceo Escobar / Johanner / Juan**  
 Proyecto académico para Ingeniería de Sistemas  
 Universidad Nacional Abierta y a Distancia – UNAD
