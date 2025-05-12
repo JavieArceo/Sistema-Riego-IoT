@@ -4,9 +4,9 @@ Este repositorio contiene el prototipo funcional simulado del proyecto de ingeni
 
 ## Contenido del repositorio
 
-- `prototipo_riego.pkt` → Archivo de simulación en Cisco Packet Tracer.
-- `capturas/` → Imágenes del sistema en funcionamiento (simulación).
-- `documentacion/` → Validación TRL5 y detalles del diseño.
+- `Fase4_Simulacion_Prototipo del Sistema_IoT.pkt` → Archivo de simulación en Cisco Packet Tracer.
+- `Captura/` → Imágenen del sistema en funcionamiento (simulación).
+- `documentacion/` → Documento Maestro.
   
 ## Funcionalidades principales
 
