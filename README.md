@@ -6,7 +6,7 @@ Este repositorio contiene el prototipo funcional simulado del proyecto de ingeni
 
 - `prototipo_riego.pkt` → Archivo de simulación en Cisco Packet Tracer.
 - `capturas/` → Imágenes del sistema en funcionamiento (simulación).
-- `documentacion/` → Validación TRL5 y detalles del diseño (opcional).
+- `documentacion/` → Validación TRL5 y detalles del diseño.
   
 ## Funcionalidades principales
 
