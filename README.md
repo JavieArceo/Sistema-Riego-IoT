@@ -34,6 +34,6 @@ El sistema fue validado en un entorno simulado relevante, alcanzando un nivel de
 
 ## Desarrollado por
 
-**Javier Eduardo Arceo Escobar / Johanner / Juan**  
+**Javier Eduardo Arceo Escobar / Johanner Paul Arlante Salazar / Juan Felipe Riqueme Montiel**  
 Proyecto académico para Ingeniería de Sistemas  
 Universidad Nacional Abierta y a Distancia – UNAD
