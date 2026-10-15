@@ -1,4 +1,4 @@
-# Sistema de Riego Inteligente con Control Remoto y Activación Automática
+# Diseño e Implementación de un Sistema de Riego Inteligente para Huertas Agrícolas con Control Remoto y Activación Automática Basado en IoT
 
 Este repositorio contiene el prototipo funcional simulado del proyecto de ingeniería desarrollado en Cisco Packet Tracer 8.2. El objetivo del sistema es optimizar el uso del agua en huertas agrícolas mediante tecnologías IoT que permiten la activación automática o manual del riego según niveles de humedad del suelo.
 
