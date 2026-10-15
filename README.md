@@ -6,7 +6,7 @@ Este repositorio contiene el prototipo funcional simulado del proyecto de ingeni
 
 - `Fase4_Simulacion_Prototipo del Sistema_IoT.pkt` → Archivo de simulación en Cisco Packet Tracer.
 - `Captura/` → Imágenen del sistema en funcionamiento (simulación).
-- `documentacion/` → Documento Maestro.
+- `documentacion/` → Proyecto Aplicado - Documento de Trabajo.
   
 ## Funcionalidades principales
 
